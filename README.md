@@ -1,4 +1,4 @@
-### Olá pessoal! Meu nome é Manu!  
+### Olá pessoal! Meu nome é Manu! <3
 ##
 <div>
   <a href="https://github.com/manuellamonteiro">
