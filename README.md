@@ -1,9 +1,9 @@
-### Olá pessoal! Meu nome é Manu! <3
-##
+### Olá, Meu nome é Manu!
+
 <div>
   <a href="https://github.com/manuellamonteiro">
-  <img height="180em" text aling= "left" src="https://github-readme-stats.vercel.app/api?username=manuellamonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" text aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuellamonteiro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuellamonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuellamonteiro&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
